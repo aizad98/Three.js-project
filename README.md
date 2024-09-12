@@ -14,7 +14,7 @@ like raycasting, GSAP animations, and dat.GUI for a customizable and interactive
 - [Contact](#contact)
 - 
 ## Features:🌟
-**.Interactive 3D Surface**: A dynamic surface that responds to user interactions.
+- **Interactive 3D Surface**: A dynamic surface that responds to user interactions.
 **.Raycasting for Interactivity**: Changes the color of the surface from dark blue to white when the mouse hovers over it, reverting to normal on mouse exit.
 **.GSAP Animations**: Smooth hover effects to transition colors back to normal.
 **.dat.GUI Integration**: Real-time control over the height and width of the 3D surface.

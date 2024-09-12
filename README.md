@@ -5,44 +5,45 @@ like raycasting, GSAP animations, and dat.GUI for a customizable and interactive
 ## Table of Contents
 - [Features](#features)
 - [Video Demo](#VideoDemo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Technologies Used](#TechnologiesUsed)
+- [Project Structure](#ProjectStructure)
+- [Installation & setup](#Installation&setup)
+- [Usage](#Usage)
+- [Customization](#Customization)
+- [Contributing](#Contributing)
 - [Contact](#contact)
 - 
 ## Features:🌟
-**Interactive 3D Surface**: A dynamic surface that responds to user interactions.
-**Raycasting for Interactivity**: Changes the color of the surface from dark blue to white when the mouse hovers over it, reverting to normal on mouse exit.
-**GSAP Animations**: Smooth hover effects to transition colors back to normal.
-**dat.GUI Integration**: Real-time control over the height and width of the 3D surface.
-**Orbital Control**: Allows users to navigate and interact with the 3D scene with ease.
-**Vite.js for Fast Development**: Efficient and fast project setup with Vite.js.
+**.Interactive 3D Surface**: A dynamic surface that responds to user interactions.
+**.Raycasting for Interactivity**: Changes the color of the surface from dark blue to white when the mouse hovers over it, reverting to normal on mouse exit.
+**.GSAP Animations**: Smooth hover effects to transition colors back to normal.
+**.dat.GUI Integration**: Real-time control over the height and width of the 3D surface.
+**.Orbital Control**: Allows users to navigate and interact with the 3D scene with ease.
+**.Vite.js for Fast Development**: Efficient and fast project setup with Vite.js.
 
 ## 📽️ Video Demo
 Check out the live demo of this project on the youtube channel of chris course ,
 [![Watch the demo](https://img.youtube.com/vi/YK1Sw_hnm58/0.jpg)](https://www.youtube.com/watch?v=YK1Sw_hnm58)
 
 ## Technologies Used :🛠️
-**Three.js**: For rendering 3D graphics in the browser.
-**Vite.js**: For fast development and bundling.
-**JavaScript (ES6+)**: Core scripting for interactions and logic.
-**GSAP**: For hover animations to smoothly transition surface colors.
-**npm**: Project management and package running.
-**dat.GUI**: Allows for tweaking height and width of the 3D surface in real-time.
-**Raycaster**: Detects mouse interactions and changes the landing page's color.
-**Orbital Control**: For smooth and intuitive control of the camera around the 3D scene.
+**.Three.js**: For rendering 3D graphics in the browser.
+**.Vite.js**: For fast development and bundling.
+**.JavaScript (ES6+)**: Core scripting for interactions and logic.
+**.GSAP**: For hover animations to smoothly transition surface colors.
+**.npm**: Project management and package running.
+**.dat.GUI**: Allows for tweaking height and width of the 3D surface in real-time.
+**.Raycaster**: Detects mouse interactions and changes the landing page's color.
+**.Orbital Control**: For smooth and intuitive control of the camera around the 3D scene.
 
 ## Project Structure:📂
 bash
 Copy code
-├── **index.html**       # Main HTML file
-├── **styles.css**       # CSS for layout and design
-├── **main.js**         # JavaScript logic for Three.js and GSAP
-├── **package.json**     # Project dependencies
-├── **vite.config.js**   # Vite configuration
-└── **README.md**        # Project documentation
+├── **.index.html**       # Main HTML file
+├── **.styles.css**       # CSS for layout and design
+├── **.main.js**         # JavaScript logic for Three.js and GSAP
+├── **.package.json**     # Project dependencies
+├── **.vite.config.js**   # Vite configuration
+└── **.README.md**        # Project documentation
 
  ## Installation & Setup :⚙️
 **1)Clone the repository:**

@@ -46,6 +46,15 @@ Copy code
 └── **.README.md**        # Project documentation
 
  ## Installation & Setup :⚙️
+ **Prerequisites**
+
+- [Node.js](https://nodejs.org/) (LTS version recommended)
+- npm (comes with Node.js)
+
+Run the following command to check if Node.js and npm are installed:
+node -v
+npm -v
+
 **1)Clone the repository:**
 git clone https://github.com/aizad98/3d-interactive-landing-page.git
 
@@ -66,13 +75,16 @@ Use the dat.GUI controls to adjust the height and width of the surface dynamical
 The page will respond to mouse movements and input through orbital control.
 
 ## 🔧##Customization :
-**3D Surface:** Modify the geometry, material, or color in main.js to change the look and feel of the 3D surface.
-**Raycasting Behavior:** Customize the interaction response to mouse movements by adjusting the raycaster settings in main.js.
-**dat.GUI Options:** Add more parameters or controls in main.js for further customization.
-**Animations:** Use GSAP to fine-tune the color transitions and hover effects.
+- **3D Surface:** Modify the geometry, material, or color in main.js to change the look and feel of the 3D surface.
+- **Raycasting Behavior:** Customize the interaction response to mouse movements by adjusting the raycaster settings in main.js.
+- **dat.GUI Options:** Add more parameters or controls in main.js for further customization.
+- **Animations:** Use GSAP to fine-tune the color transitions and hover effects.
 
 ## 🤝 Contributing
 Feel free to submit issues or pull requests. Contributions are welcome!
+
+## 🤝 Contact Me:
+Feel free to contact me on email: abobakardawood901@gmail.com
 
 
 
